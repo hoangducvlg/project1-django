@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* CsS HEADER */
+Header > h1 {
+    text-align: center;
+    font-size: 56px;
+    color: darkblue;
+    text-shadow: 4px 5px lightblue;
+}
+
+/* CSS NAV*/
+nav {
+    background-color: lightblue;
+}
+
+ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
